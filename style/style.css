@@ -1,0 +1,27 @@
+/* For NavBar */
+.navBar{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.navLogo{
+    display: flex;
+    align-items: center;
+
+}
+
+
+.navLogo ul{
+    list-style: none;
+    
+}
+
+li{
+    float: left;
+    margin-left: 30px;
+}
+
+a{
+    text-decoration: none;
+}
